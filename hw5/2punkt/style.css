@@ -1,0 +1,66 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#center {
+    float: none;
+    width: 1200px;
+    height: 1000px;
+    margin: 0 auto;
+}
+
+#doska {
+    float: none;
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+}
+
+.default_rotate {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: beige;
+    text-align: center;
+    line-height: 100px;
+    transform: rotate(180deg);
+}
+
+.default {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: beige;
+    text-align: center;
+    line-height: 100px;
+}
+
+.chet {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: #f0ddc7;
+}
+
+.nechet {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: #b5876c;
+}
+
+.black {
+    color: black;
+    text-align: center;
+    line-height: 100px;
+    transform: rotate(180deg);
+}
+
+.white {
+    color: white;
+    text-align: center;
+    line-height: 100px;
+}
